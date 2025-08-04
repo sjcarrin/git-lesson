@@ -2,6 +2,6 @@
 Some quotes
 """
 
-def hellow_world():
+def hello_world():
     quote = "Hello, World!"
     return quote
